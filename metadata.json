@@ -1,0 +1,8 @@
+{
+  "name": "ClimaMandala AR",
+  "description": "Una experiencia de realidad aumentada que genera mandalas artísticos y animados basados en las condiciones climáticas de tu ubicación actual.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
